@@ -172,3 +172,79 @@ nav ul li a {
     line-height: 30px;
     color: #5c6a7b;
 }
+.cart {
+    width: 900px;
+    height: 240px;
+    margin: auto;
+    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.1);
+    background: linear-gradient(to top, #abcbd3,#f5fefd);
+    box-shadow: 5px 20px 30px rgba(0, 0, 0, 1);
+    padding: 50px;
+    text-align: center;
+}
+.cart {
+    margin-top: 80px;
+    margin-bottom: 100px;
+}
+.cart h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: #334155;
+}
+.cart p {
+    color: #4e5c6f;
+    margin-bottom: 30px;
+}
+.cart button {
+    padding: 15px 50px;
+    border-radius: 30px;
+    font-size: 16px;
+    font-weight: 700;
+    border: none;
+    background-color: #0e7490;
+    color: #fff;
+}
+.flow-logo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.flow-logo h5 {
+    color: #1d1e1e;
+    font-size: 12px;
+    font-weight: 400;
+}
+.flow-logo p {
+    color: #1d1e1e;
+}
+/* About Section */
+.main {
+    gap: 50px;
+    margin-top: 60px;
+    margin-bottom: 80px;
+}
+.main-text h1 {
+    font-size: 68px;
+    color: #334155;
+    margin-bottom: 30px;
+}
+.main-text p {
+    font-size: 24px;
+    color: #5f6c7c;
+    line-height: 40px;
+    margin-bottom: 30px;
+}
+.main-text button {
+    padding: 15px 50px;
+    border-radius: 30px;
+    font-size: 16px;
+    font-weight: 700;
+    border: none;
+    background-color: #0e7490;
+    color: #fff;
+}
+.main-pic img {
+    width: 580px;
+}
